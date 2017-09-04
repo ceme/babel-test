@@ -2,7 +2,6 @@
 ## babel-cli test project
 
 npm install <br/>
-npm install babel-preset-env --save-dev<br/>
 npm run build
 
 [babeljs.io installation](https://babeljs.io/docs/setup/#installation "Babel CLI How to use the CLI tools.")
