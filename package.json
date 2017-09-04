@@ -4,6 +4,11 @@
   "scripts": {
     "build": "babel src -d lib"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceme/babel-test.git"
+  },
+  "license": "(MIT OR Apache-2.0)",
   "devDependencies": {
     "babel-cli": "^6.0.0"
   }
